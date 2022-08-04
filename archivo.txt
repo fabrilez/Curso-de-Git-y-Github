@@ -1,5 +1,2 @@
 lorem impsum 
-oakndoanmd
-lkjanmd
-concatenando mas texto en el archivo
-
+Este texto es de prueba, agrego contendido y quito la linea de arriba para verificar los cambios en git
